@@ -4,8 +4,8 @@ def display_board
   row = "   ", "|", "   ", "|", "   "
   separator = "-----------"
   print row
-  print separator
+  puts separator
   print row
-  print separator
+  puts separator
   print row
 end
