@@ -1,7 +1,10 @@
 # Define a method display_board that prints a 3x3 Tic Tac Toe Board
-row = 
+row = "   ", "|", "   ", "|", "   "
+separator = "-----------"
 def display_board
-  print "   ", "|", "   ", "|", "   "
-  print "-----------"
-  
+  print row
+  print separator
+  print row
+  print separator
+  print row
 end
