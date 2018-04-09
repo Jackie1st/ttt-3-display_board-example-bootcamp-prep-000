@@ -2,8 +2,8 @@
 
 def display_board
   print "   ", "|", "   ", "|", "   "
-  puts "-----------"
+  print "-----------"
   print "   ", "|", "   ", "|", "   "
-  puts "-----------"
+  print "-----------"
   print "   ", "|", "   ", "|", "   "
 end
