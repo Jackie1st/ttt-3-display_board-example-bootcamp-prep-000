@@ -3,7 +3,7 @@
 def display_board
   row = "   ", "|", "   ", "|", "   "
   separator = "-----------"
-  print row
+  print 
   puts separator
   print row
   puts separator
